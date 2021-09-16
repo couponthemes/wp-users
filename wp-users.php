@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name:       WP Users
- * Plugin URI:        https://github.com/couponthemes/wp-users
- * Description:       Advance Ajax WordPress Login & Register Form.
+ * Plugin URI:        https://couponthemes.net/plugins/
+ * Description:       Advance Ajax Login & Register Form.
  * Version:           1.0.0
  * Author:            Coupon Themes
  * Author URI:        http://couponthemes.net/
